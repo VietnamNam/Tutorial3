@@ -1,0 +1,24 @@
+.inputs {
+    position:fixed;
+    top:1.9%;
+}
+
+#p1Chat {
+    left:0.8%;
+}
+
+#p2Chat {
+    right:0.8%;
+}
+
+#ChatDisplay {
+    position:absolute;
+    right:0px;
+    top:7.5%;
+    width:100vw;
+    height:92.5vh;
+}
+
+.emojis {
+    height:50px;
+}
